@@ -60,3 +60,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     { 23, 0 }
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
+#define VIAL_COMBO_ENTRIES 4
