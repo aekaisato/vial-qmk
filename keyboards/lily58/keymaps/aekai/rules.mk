@@ -23,7 +23,8 @@ OLED_ENABLE = no     # OLED display
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 
-BOOTLOADER = atmel-dfu
+# BOOTLOADER = atmel-dfu
+CONVERT_TO = blok
 SPLIT_KEYBOARD = yes
 
 LTO_ENABLE = yes
