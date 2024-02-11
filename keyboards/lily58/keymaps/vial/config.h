@@ -57,6 +57,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     { 0xEE, 0xDE, 0xE5, 0x25, 0xB9, 0x0F, 0x1E, 0x94 }
 
 #define VIAL_UNLOCK_COMBO_ROWS \
-    { 4, 0 }
+    { 4, 9 }
 #define VIAL_UNLOCK_COMBO_COLS \
-    { 23, 0 }
+    { 4, 4 }
